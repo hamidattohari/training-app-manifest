@@ -7,7 +7,4 @@ namespace: staging
 images:
 - name: go-echo
   newName: asia-southeast1-docker.pkg.dev/sandbox-wahyu-anggana/kci-dev/go-echo
-  newTag: f84ca9a
-- name: kowlon/go-echo
-  newName: asia-southeast1-docker.pkg.dev/sandbox-wahyu-anggana/kci-dev/go-echo-hamid
-  newTag: stg-v.0.0.1
+  newTag: 058a43c
