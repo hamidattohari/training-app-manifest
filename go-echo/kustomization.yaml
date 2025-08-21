@@ -8,4 +8,4 @@ namespace: hamid
 images:
 - name: go-echo
   newName: asia-southeast1-docker.pkg.dev/sandbox-wahyu-anggana/kci-dev/go-echo
-  newTag: d44dc7d
+  newTag: 67647f4
