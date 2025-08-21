@@ -9,6 +9,8 @@ spec:
     repoURL: git@github.com:hamidattohari/training-app-manifest.git
     targetRevision: main
     path: go-echo
+    kustomize:
+      namePrefix: "go-echo-"
   destination:
     server: https://kubernetes.default.svc
     namespace: hamid
