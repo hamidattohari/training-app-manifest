@@ -6,6 +6,6 @@ resources:
 - virtual-service.yaml
 namespace: hamid
 images:
-- name: go-echo
+- name: kowlon/go-echo
   newName: asia-southeast1-docker.pkg.dev/sandbox-wahyu-anggana/kci-dev/go-echo
-  newTag: 6784c13
+  newTag: 596062a
